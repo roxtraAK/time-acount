@@ -1,0 +1,6 @@
+﻿//Todo
+ - Drag Funktion ohne Rahmen funktioniert nicht.
+
+Features
+- Benutzermanagement (Passwort ändern...)
+- Gesamte Kommen gehen Zeiten in Tabelle ausgeben
